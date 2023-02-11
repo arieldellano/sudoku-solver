@@ -238,24 +238,6 @@ public class Board : System.IEquatable<Board>
             Console.SetCursorPosition(left, top);
             Console.WriteLine(legend[top]);
         }
-
-
-        // Console.SetCursorPosition(left, legend.Count);
-        // Console.Write(new String(' ', 80));
-        // Console.SetCursorPosition(left, legend.Count);
-
-        // Console.Write("\t[");
-        // for (var h = 0; h < History.Count; h++)
-        // {
-        //     Console.Write($"({History[h].Item1},{History[h].Item2})");
-        //     if (h < History.Count - 1)
-        //     {
-        //         Console.Write(", ");
-        //     }
-        // }
-        // Console.WriteLine("]");
-
-
     }
 
     public void PrintCursor()
