@@ -1,4 +1,4 @@
-# Minesweeper Clone for Terminal Nerds
+# Sudoku Clone for Terminal Nerds
 
 ![thumbnail](./thumbnail.jpg)
 
